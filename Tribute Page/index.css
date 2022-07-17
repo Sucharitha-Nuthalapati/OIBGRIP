@@ -1,0 +1,21 @@
+
+.main{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVLJi-v7HFHc5hqd7cv1mdjGKRtz04x7lYGXvUxHKKrgxm3myDJZ1TY6am7p3CvpAJdGo&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
+.text{
+    padding: 0% 20% 0% 20%;
+}
+p{
+    color: black;
+    font-size: 20px;
+    text-align:justify;
+}
+body{
+    background-color: grey;
+}
+.footer{
+    padding-left: 10%;
+    padding-right: 10%;
+}
