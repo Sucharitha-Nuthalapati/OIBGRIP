@@ -1,0 +1,47 @@
+body{
+    background-image: url("https://us.123rf.com/450wm/karandaev/karandaev1611/karandaev161100434/65841837-office-leather-desk-table-with-calculator-and-pen-top-view-with-copy-space.jpg?ver=6");
+    background-size: cover;
+}
+.title{
+    border-radius: 2%;
+    border: 1px solid rgb(129, 123, 123);
+    
+    align-items: center;
+    width: 100%;
+    padding: 1% 1% 1% 1%;
+    background-image: linear-gradient(to bottom right,rgb(97, 94, 94),rgb(126, 119, 119),rgb(78, 78, 78));
+}
+td{
+    border: 1px solid rgb(80, 78, 78);
+    border-collapse: collapse;   
+}
+.main{
+    float:right;
+      padding: 10% 20% 10% 70%;
+}
+.box{
+    width: 100%;
+    padding: 5%;
+    text-align: right;
+    border-color: white;
+    border-collapse: collapse;
+    border: 1px solid white;
+}
+.ac{
+    display:grid;
+    width: 100%;
+    height: 10%;
+    padding: 40% 1%;
+    text-align: center;
+}
+.but{
+    width:100%;
+    height:100%;  
+}
+#history{
+    color: rgb(24, 22, 22);
+    font-size: 80%;
+}
+#output{
+    font-size: 120%;
+}
